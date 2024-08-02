@@ -2,11 +2,11 @@
 
 /**
  * █ ---------------------------------------------------------------------------------------------------------------------
- * █ ░FRAMEWORK                                                                    2024-02-04 21:27:00
+ * █ ░FRAMEWORK                                  2024-08-02 09:52:05
  * █ ░█▀▀█ █▀▀█ █▀▀▄ █▀▀ ░█─░█ ─▀─ █▀▀▀ █▀▀▀ █▀▀ [App\Modules\Organization\Home\breadcrumb.php]
  * █ ░█─── █──█ █──█ █▀▀ ░█▀▀█ ▀█▀ █─▀█ █─▀█ ▀▀█ Copyright 2024 - CloudEngine S.A.S., Inc. <admin@cgine.com>
  * █ ░█▄▄█ ▀▀▀▀ ▀▀▀─ ▀▀▀ ░█─░█ ▀▀▀ ▀▀▀▀ ▀▀▀▀ ▀▀▀ Para obtener información completa sobre derechos de autor y licencia,
- * █                                                                                         consulte la LICENCIA archivo que se distribuyó con este código fuente.
+ * █                                             consulte la LICENCIA archivo que se distribuyó con este código fuente.
  * █ ---------------------------------------------------------------------------------------------------------------------
  * █ EL SOFTWARE SE PROPORCIONA -TAL CUAL-, SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
  * █ IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIABILIDAD,
@@ -17,6 +17,7 @@
  * █ O EL USO U OTROS NEGOCIACIONES EN EL SOFTWARE.
  * █ ---------------------------------------------------------------------------------------------------------------------
  * █ @Author Jose Alexis Correa Valencia <jalexiscv@gmail.com>
+ * █ @Editor Anderson Ospina Lenis <andersonospina798@gmail.com>
  * █ @link https://www.codehiggs.com
  * █ @Version 1.5.0 @since PHP 7, PHP 8
  * █ ---------------------------------------------------------------------------------------------------------------------
@@ -27,7 +28,7 @@
  **/
 return [
     'module' => 'Módulo Organización',
-    'intro-1' => 'Una organización se define como una entidad social compuesta por personas, recursos y estructuras, que se reúnen con un propósito común o una meta específica. Estas entidades pueden ser de naturaleza diversa, como empresas, instituciones gubernamentales, organizaciones sin fines de lucro, asociaciones, entre otras. Una característica fundamental de una organización es la existencia de una estructura formal que define roles, responsabilidades y relaciones entre los miembros, así como procesos y procedimientos para alcanzar los objetivos establecidos. Además, las organizaciones suelen operar dentro de un marco legal y tienen una estructura de autoridad y toma de decisiones.',
+    'intro-1' => 'Una organización se define como una entidad social compuesta por personas, recursos y estructuras que se reúnen con un propósito común o una meta específica. Estas entidades pueden ser de naturaleza diversa, como empresas, instituciones gubernamentales, organizaciones sin fines de lucro, asociaciones, entre otras. Una característica fundamental de una organización es la existencia de una estructura formal que define roles, responsabilidades y relaciones entre los miembros, así como procesos y procedimientos para alcanzar los objetivos establecidos. Además, las organizaciones suelen operar dentro de un marco legal y cuentan con una estructura de autoridad y toma de decisiones.',
     'institutional-plans' => 'Planes Institucionales',
 ];
 ?>
