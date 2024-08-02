@@ -94,7 +94,7 @@ return [
     "delete-noexist-title" => "¡No existe!",
     "delete-noexist-message" => "El elemento que intenta eliminar no existe o se eliminó previamente. Para retornar al listado general de macroprocesos, presione continuar en la parte inferior de este mensaje.",
     "delete-success-title" => "¡Singular eliminado exitosamente!",
-    "delete-success-message" => "La macroproceso se eliminó exitosamente. Para retornar al listado general de macroprocesos, presione el botón continuar en la parte inferior de este mensaje.",
+    "delete-success-message" => "El macroproceso se eliminó exitosamente. Para retornar al listado general de macroprocesos, presione el botón continuar en la parte inferior de este mensaje.",
     // - Macroprocesses list
     "list-denied-title" => "¡Advertencia!",
     "list-denied-message" => "Los roles asignados a su perfil no le conceden los privilegios necesarios para acceder al listado general de macroprocesos en esta plataforma. Contacte al departamento de soporte técnico para obtener información adicional o para solicitar la asignación de los permisos necesarios, si es el caso. Para continuar, seleccione la opción correspondiente en la parte inferior de este mensaje.",
