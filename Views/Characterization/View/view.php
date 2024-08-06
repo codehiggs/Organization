@@ -1,7 +1,7 @@
 <?php
 
 $server = service("server");
-$f = service("forms", array("lang" => "Characterization."));
+$f = service("forms", array("lang" => "Organization_Characterization."));
 /*
 * -----------------------------------------------------------------------------
 * [Requests]
